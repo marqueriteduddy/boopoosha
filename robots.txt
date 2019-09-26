@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eephaimohf.josefnorlin.com/sitemap.xml
